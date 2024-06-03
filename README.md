@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoannaRocio.
-- 👀 Learning Angular, Unity, JavaScript, SQL and C#
+- 👀 Learning Angular, React and Unity ♥
 - 🌱 I’m currently making 2D, 3D videogames and programming web applications with Angular.
 - 💞️ Open to work.
 - 📫 How to reach me 
