@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoannaRocio.
 - 👀 Learning Angular, React and Unity ♥
-- 🌱 I’m currently making 2D, 3D videogames and programming web applications with Angular.
+- 🌱 I’m currently working with Angular and learning React.
 - 💞️ Open to work.
 - 📫 How to reach me 
 Mail: joannarocios@gmail.com
