@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoannaRocio.
-- 👀 Learning Angular, React, .Net with C# ♥
+- 👀 Learning Angular, React and .Net with C# ♥
 - 🌱 Learning Unity too just for fun.
 - 💞️ Open to work.
 - 📫 How to reach me 
