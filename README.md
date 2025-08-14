@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoannaRocio.
-- 👀 Learning Angular, React and .Net with C# ♥
-- 🌱 Learning Unity too just for fun.
+- 👀 Learning and working with React, Angular and Java ♥
+- 🌱 Studying English.
 - 💞️ Open to work.
 - 📫 How to reach me 
 Mail: joannarocios@gmail.com
