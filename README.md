@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoannaRocio.
 - 👀 Learning and working with React, Angular and Java ♥
-- 🌱 Studying English.
+- 🌱 Studying English and Japanese.
 - 💞️ Open to work.
 - 📫 How to reach me 
 Mail: joannarocios@gmail.com
