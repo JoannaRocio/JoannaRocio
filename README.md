@@ -1,8 +1,8 @@
 ### ¡Hola! 👋 Hi, I'm Joanna Sakugawa
 
-🇪🇸 **Desarrolladora de Software & Frontend Developer** | Técnica en Programación (UNLZ) y estudiante de la Licenciatura en Programación de Videojuegos. Me apasiona crear interfaces web modernas con **React** y **Angular**, explorar el **desarrollo de videojuegos** (Unity, C#) y experimentar con herramientas de **IA generativa**. ¡Me la paso creando proyectos y subiéndolos por aquí! 🚀
+[ES] **Desarrolladora de Software & Frontend Developer** | Técnica en Programación (UNLZ) y estudiante de la Licenciatura en Programación de Videojuegos. Me apasiona crear interfaces web modernas con **React** y **Angular**, explorar el **desarrollo de videojuegos** (Unity, C#) y experimentar con herramientas de **IA generativa**. ¡Me la paso creando proyectos y subiéndolos por aquí! 🚀
 
-🇬🇧 **Software & Frontend Developer** | Programming Technician (UNLZ) and Game Development Bachelor's student. I am passionate about building modern web interfaces with **React** and **Angular**, exploring **game development** (Unity, C#), and experimenting with **Generative AI** tools. I love building things and sharing my projects here! 🚀
+[EN] **Software & Frontend Developer** | Programming Technician (UNLZ) and Game Development Bachelor's student. I am passionate about building modern web interfaces with **React** and **Angular**, exploring **game development** (Unity, C#), and experimenting with **Generative AI** tools. I love building things and sharing my projects here! 🚀
 
 ---
 
@@ -19,6 +19,12 @@
 * 🎮 Profundizando en **Game Development** y programación de videojuegos. *(Deepening into Game Development)*
 * 🤖 Experimentando con **IA Generativa** para crear experiencias interactivas. *(Experimenting with GenAI)*
 * 🗣️ Estudiando **Inglés (B2)** y **Japonés** por mi cuenta. *(Studying English and Japanese)*
+
+---
+
+### 🎮 Game Dev Links
+* **Game Dev Portfolio:** [joanna-game-dev.vercel.app](https://joanna-game-dev.vercel.app/)
+* **Itch.io:** [sukaritasss.itch.io](https://sukaritasss.itch.io/)
 
 ---
 
