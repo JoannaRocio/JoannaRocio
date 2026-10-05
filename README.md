@@ -24,7 +24,7 @@
 
 ### 🎮 Game Dev Links
 * **Game Dev Portfolio:** [joanna-game-dev.vercel.app](https://joanna-game-dev.vercel.app/)
-* **Itch.io:** [jojo-latam-games.itch.io]([https://sukaritasss.itch.io/](https://jojo-latam-games.itch.io/))
+* **Itch.io:** [jojo-latam-games.itch.io](https://jojo-latam-games.itch.io/)
 
 ---
 
